@@ -1,2 +1,1 @@
-# RSPG
-Return of the Shadow Strategic Pocket Guid
+# Return of the Shadow Strategic Pocket Guide
