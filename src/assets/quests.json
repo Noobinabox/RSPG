@@ -1,17 +1,27 @@
 [{
-    "name": "Blue Candle",
-    "difficulty": 1,
+    "name": "Blue Candle Quest",
+    "difficulty": 2,
     "description": "",
-    "notes": "",
+    "notes": "This quest is extremely easy and is needed for the temple quest, otherwise it's a worthless light source.",
     "mobs": [{
       "id": 1
     }],
     "items": [{
-      "id": 1
+      "id": 5611
     }],
     "phases": [{
-      "id": 1
-    }]
+        "id": 1,
+        "startinglocation": "Vinya Fountain",
+        "directions": "knock heavygate;.7n2e2n;op dirtygate;.4nwn;op hutdoor;.2w;op piledwood;s;kill zark",
+        "commands": "get locket corpse"
+      },
+      {
+        "id": 2,
+        "startinglocation": "MB Fountain",
+        "directions": ".6n2wn;op gate;.3n;op door;n",
+        "commands": "give locket woman"
+      }
+    ]
   },
   {
     "name": "Slick Blue Flask",
@@ -25,7 +35,10 @@
       "id": 1
     }],
     "phases": [{
-      "id": 1
+      "id": 1,
+      "startinglocation": "Vinya Fountain",
+      "directions": ".14w10s2ese2s;op backdoor;s;op frontdoor;.2se;op largerock;e;op rockslab;.3e3n;op thickvines;n;op tangledwood;.2nendnw;op muddyrock;w;op tunnel;w;op bigrocks;.3wn4en2e;op bandeddoor;n;op door;u;k hag",
+      "commands": "get bag corpse;get flask bag"
     }]
   },
   {
