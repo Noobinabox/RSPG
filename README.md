@@ -1,27 +1,15 @@
-# RSPG
+# Return of the Shadow Strategic Pocket Guide
+## Quick reference guide for Return of the Shadow mud
+You can visist the following [website](https://rotsmud.org) to learn more about RotS, Return of the Shadow.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+## The Goal of RSPG
+The RotS Strategic Pocket Guide was built to allow the sharing of knowledge between players for quests, items, and locations of special mobs.
 
-## Development server
+## Directions to Areas
+As the game changes and new zones get added into the game; some of the directions may no longer be accurate. If you notice the directions to a specific place, object, and etc aren't correct please reference the [contributing][contributing] section on how to submit a change.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Contributing
+If you want to file a bug, contribute some code, or improve documentation, please read up on the guildlines for [contributing][contributing] and then check out one of our issues in the [hotlist: community-help](https://github.com/noobinabox/rspg/rspg/labels/hostlist%3A%20community-help).
 
-## Code scaffolding
+[contributing]: https://github.com/noobinabox/rspg/blobl/master/CONTRIBUTING.md
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
