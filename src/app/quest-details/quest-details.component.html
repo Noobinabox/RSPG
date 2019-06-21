@@ -1,3 +1,30 @@
-<p>
-  quest-details works!
-</p>
+<div class="container" [hidden]="quest.name == null">
+  <div class="row">
+    <div class="col-12">
+      <h2>{{ quest.name }}</h2>
+    </div>
+    <div class="col-12">
+      <table class="table-sm table-hover table-borderless">
+        <tbody>
+          <tr>
+              <td class="rotsTbStrong"><strong>Difficulty:</strong></td>
+              <td><span class="badge badge-primary">{{ quest.difficulty }}/10</span></td>
+          </tr>
+          <tr>
+            <td class="rotsTbStrong"><strong>Description: </strong></td>
+            <td>{{ quest.description }}</td>
+          </tr>
+          <tr>
+            <td class="rotsTbStrong"><strong>Notes: </strong></td>
+            <td>{{ quest.notes }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-12">
+      <div id="phases" *ngFor="let phase of quest.phases">
+        <app-phase-details [phase]="phase"></app-phase-details>
+      </div>
+    </div>
+  </div>
+  </div>
