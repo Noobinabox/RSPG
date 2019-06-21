@@ -1,0 +1,10 @@
+.sprite {
+    image-rendering: crisp-edges;
+    height: auto;
+    width: 256px;
+    margin: 2% auto;
+}
+
+nav {
+    background-color: #374351;
+}

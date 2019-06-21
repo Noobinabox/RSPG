@@ -1,0 +1,1261 @@
+[{
+    "name": "Blue Candle",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Slick Blue Flask",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Unkepmt Dwarf",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Silver Embroidered Pipeweed Satchel",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Small Jewelry Box",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Terra",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Thog",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Durgurth",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Pewter",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Leather Satchel",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Silver Medallion",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Kraken",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Warg Chieftain",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Angmacar",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Ornate Pitchfork",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Snakeskin Belt",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Warlock",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Interloper",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Plate for Pale",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Temple Quest",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Ancient Tree",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Maze",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Long Dark Snakeskin",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "GG Staff Turn-in",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Confuse / Guardian Guildmaster",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Nettles",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Glowing Rock Lantern",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Kabaal",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Loose Dark Cowl",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Vaz",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Elven Dress",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Half Orc Chieftain",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Fell Beast / Bazarat",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Lunaron",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Silver Ring",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Ruby Necklace",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Healer Quest",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Rumblethump",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Dragon Dagger",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Elven Spetum",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Ancient Spider",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Silver Circlet",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Gnarled Oak Tree",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Bone Scuplture",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Drauglin",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Cold Drake",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Swamp Troll",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Ghrisk",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Silver Flask",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Skeleton Knight",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Pale Vampire",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Red Silk Sash",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Bandit Camp",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Silver Leaf",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Catacombs",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Fine Jeweled Breastplate",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Blue and Gold Armor",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Dark Runed Armor",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Fine Chain Armor",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Cowl Zone Spiders",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Luurmag",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Nalimukh",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Easterlings",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Mumak",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Red Leather Cap",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Ungumbar",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Noldor Weapon Turn In",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Blue Marble Ring",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Red Wool Scarves",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Moonblade / Shimmering Cloak Enchant",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Mithril Buckle",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Snakeskin Boots",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Enchant Practice",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Dwarven War Axe",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Dwarven War Hammer",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Dwarven Battle Axe",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Porcelian Doll",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Soft Leather Gloves",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Garland",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Mage Tower",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Engraved Staff",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Peodore",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "White Walking Staff",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  },
+  {
+    "name": "Vinya Tombs",
+    "difficulty": 1,
+    "description": "",
+    "notes": "",
+    "mobs": [{
+      "id": 1
+    }],
+    "items": [{
+      "id": 1
+    }],
+    "phases": [{
+      "id": 1
+    }]
+  }
+]
