@@ -1,6 +1,6 @@
 # Return of the Shadow Strategic Pocket Guide
 ## Quick reference guide for Return of the Shadow mud
-You can visist the following [website](https://rotsmud.org) to learn more about RotS, Return of the Shadow.
+You can visit the following [website](https://rotsmud.org) to learn more about RotS, Return of the Shadow.
 
 ## The Goal of RSPG
 The RotS Strategic Pocket Guide was built to allow the sharing of knowledge between players for quests, items, and locations of special mobs.
