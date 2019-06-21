@@ -11,5 +11,5 @@ As the game changes and new zones get added into the game; some of the direction
 ## Contributing
 If you want to file a bug, contribute some code, or improve documentation, please read up on the guildlines for [contributing][contributing] and then check out one of our issues in the [hotlist: community-help](https://github.com/noobinabox/rspg/rspg/labels/hostlist%3A%20community-help).
 
-[contributing]: https://github.com/noobinabox/rspg/blobl/master/CONTRIBUTING.md
+[contributing]: https://github.com/noobinabox/rspg/blob/master/CONTRIBUTING.md
 
